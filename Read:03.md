@@ -26,4 +26,4 @@ headings).< /p >
 
 __You can cusomtize your webpages by adding codes to the main html code and you can modify or dicorate it using the css language__
 
-[For more information Visit](https://www.w3schools.com/html/html_intro.asp)
+[For more information Visit W3school](https://www.w3schools.com/html/html_intro.asp)
