@@ -12,3 +12,4 @@ I am Sa'ed Jabali and I am 26 years old, graduated as an aeronautical engineer f
 |                                   |                                |
 | * Programming with JavaScript.    | [Programming with JavaScript](https://saedjabali.github.io/Reading.Notes/Programming%20with%20JavaScript)                               |
 | * Dynamic web pages with JavaScript  | [Dynamic web pages with JavaScript](https://saedjabali.github.io/Reading.Notes/Dynamic%20web%20pages%20with%20JavaScript)                               |                                
+| * Dynamic web pages with JavaScript | [Dynamic web pages with JavaScript](https://saedjabali.github.io/Reading.Notes/Computer%20Architecture%20and%20Logic) |
