@@ -6,3 +6,4 @@ I am Sa'ed Jabali and I am 26 years old, graduated as an aeronautical engineer f
 * Mindset-Growth.
 * Topic learnt.
 * Structure web pages with HTML.
+* Programming with JavaScript.
