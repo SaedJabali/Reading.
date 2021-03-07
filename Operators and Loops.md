@@ -84,4 +84,4 @@ update;
 }
 
 if the result __true__ it will give (return) the statement 
- and if it is __false__ it will _break_ the for loop.
+ and if it is __false__ it will _break_ the while loop.
