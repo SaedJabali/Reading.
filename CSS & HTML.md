@@ -18,9 +18,9 @@ And with _texts_ can change Typeface Size Color Italics, bold, uppercase, lowerc
 <p style= color:green;background-color:lightblue> And with _texts_ can change Typeface Size Color Italics, bold, uppercase, lowercase and small-caps. </p>
 
 <style>
-div {
+p {
   background-color: black;
-  width: 300px;
+  width: 300x;
   border: 15px lightblue;
   padding: 50px;
   margin: 20px;
