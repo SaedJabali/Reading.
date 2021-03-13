@@ -99,7 +99,8 @@ HTML5 includes a set of markup elements that overcome this difficulty. These new
 * < article>
 * < aside>
 * < nav>
-![HTML layout](layout.jpg)
+
+![HTML layout](layout.png)
 
 The above figure shows a typical arrangement of various elements. Note that their exact location on a page is purely dependent on the layout. For example, the < aside> element can be placed on the left-hand side of the < section> or even above or below it.
 
