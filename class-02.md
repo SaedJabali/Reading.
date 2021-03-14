@@ -26,7 +26,7 @@ font-size:large;
 
 <div class=headings>
 
-### Structural and semantic markup
+ Structural and semantic markup
 
 </div>
 When creating a web page, you add tags (known as **markup**) to the contents of the page. 
@@ -57,7 +57,7 @@ under the subheadings then the
 
 <div class=headings>
 
-**Paragraphs**
+Paragraphs
 
 </div>
 
@@ -68,11 +68,11 @@ tag and closing **< /p>** tag.
 
 <div class=headings>
 
-### Bold, italic, emphasis
+Bold, italic, emphasis
 
 </div>
 
-**Bold & Italic**
+Bold & Italic
 
 **< b>**
 By enclosing words in the tags
@@ -107,7 +107,7 @@ in a play — you can add a horizontal rule between sections using the **< hr />
 It works in this manner 
 ![Discrebtion](https://www.abackbenchers.com/img/upload_post/5.png)
 
-### Semantic Markup
+ Semantic Markup
 </div>
 
 There are some text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages — they are known as semantic markup.
@@ -141,7 +141,7 @@ attribute on the opening tag is used to specify the full term.
 
 <div id=sum>
 
-#### Summary TEXT
+Summary TEXT
 
 HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
 They also provide semantic information (e.g. where emphasis should be placed, the definition of any
@@ -151,7 +151,7 @@ acronyms used, when given text is a quotation).
 
 <div class=headings>
 
-### CSS
+CSS
 
 </div>
 
@@ -172,7 +172,7 @@ And with _texts_ can change Typeface Size Color Italics, bold, uppercase, lowerc
 
 <div class=headings>
 
-**CSS selectors**
+CSS selectors
 </div>
 
 |Selector| 	Example |	Example description |
@@ -186,7 +186,7 @@ And with _texts_ can change Typeface Size Color Italics, bold, uppercase, lowerc
 
 <div class=headings>
 
-# JavaScript
+JavaScript
 
 </div>
 
@@ -207,7 +207,7 @@ each time a script runs.
 
 <div class=headings>
 
-### Data Types
+Data Types
 </div> 
 
 * Strings
@@ -222,7 +222,7 @@ each time a script runs.
 
 <div class=headings>
 
-### Varibales and Arrays
+ Varibales and Arrays
 
 </div>
 
@@ -243,7 +243,7 @@ There are **six** rules to name a variable
 
 <div class=headings>
 
-## ARRAYS
+ ARRAYS
 
 </div>
 
@@ -260,7 +260,7 @@ The values are assigned to the array inside a pair of square brackets, and each 
 
 <div class=headings>
 
-### ARITHMETIC OPERATORS
+ARITHMETIC OPERATORS
 
 </div>
 
@@ -274,7 +274,7 @@ The values are assigned to the array inside a pair of square brackets, and each 
 
 <div class=headings>
 
-### Decisions and Loops
+Decisions and Loops
 
 </div>
 
@@ -282,7 +282,7 @@ The values are assigned to the array inside a pair of square brackets, and each 
 
 <div class=headings>
 
-### Loops
+Loops
 
 </div>
 
