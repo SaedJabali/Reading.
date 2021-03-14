@@ -26,7 +26,7 @@ font-size:large;
 
 <div class=headings>
 
- Structural and semantic markup
+Structural and semantic markup
 
 </div>
 When creating a web page, you add tags (known as **markup**) to the contents of the page. 
@@ -102,10 +102,12 @@ use the line break tag < br />.
 To create a break between themes — such as a change of topic in a book or a new scene
 in a play — you can add a horizontal rule between sections using the **< hr />** tag.
 
-<div class=headings>
 
-It works in this manner 
+
+It **works** in this manner 
 ![Discrebtion](https://www.abackbenchers.com/img/upload_post/5.png)
+
+<div class=headings>
 
  Semantic Markup
 </div>
