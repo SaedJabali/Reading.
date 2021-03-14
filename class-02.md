@@ -1,6 +1,7 @@
 <style>
 * {
     background:#1B005E;
+    color: White;
 }
 
 #style{
@@ -12,7 +13,7 @@
     color:#EB2208
 }
 .headings {
-
+font-size:large;
     color:orange; 
 
 }
@@ -37,9 +38,9 @@ These tags provide extra *meaning* and allow browsers to show users the appropri
 
 <div class=headings>
 
-### Headings and paragraphs
+ Headings and paragraphs
 
-**Headings**
+Headings
 
 </div>
 
