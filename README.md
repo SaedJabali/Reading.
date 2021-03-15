@@ -22,9 +22,9 @@ I am Sa'ed Jabali and I am 26 years old, graduated as an aeronautical engineer f
 
 | # Table of contents               |  Repo Links                    |
 |-----------------------------------|------------------------------  |
-| * Introductory HTML and JavaScript   | [Introductory HTML and JavaScript](https://saedjabali.github.io/Reading.Notes/class-01) |
-| 2 | . |
-| 3 | . |
+| * class-01   | [Introductory HTML and JavaScript](https://saedjabali.github.io/Reading.Notes/class-01) |
+| * class-02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://saedjabali.github.io/Reading.Notes/class-02) |
+| * class-03 | . |
 | 4 | . |
 | 5 | . |
 | 6 | . |
