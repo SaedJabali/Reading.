@@ -67,32 +67,49 @@ specified in the link.
 This **example** is of a web page about film.
 
 < html>
+
 < head>
+
 < title>Links< /title>
+
 < /head>
+
 < body>
+
 < h1 id="top">Film Folk< /h1>
+
 < h2>Festival Diary< /h2>
-< p>Here are some of the film festivals we
+
+< p> Here are some of the film festivals we
 will be attending this year.< br />Please
 < a href="mailto:filmfolk@example.org">
 contact us< /a> if you would like more
 information.< /p>
+
 < h3>January< /h3>
+
 < p>< a href="http://www.sundance.org">
 Sundance Film Festival< /a>< br />
 Park City, Utah, USA < br />
 20 - 30 January 2011< /p>
+
 < h3>February< /h3>
+
 < p>< a href="http://www.tropfest.com">
 Tropfest< /a>< br />
 Sydney, Australia< br />
 20 February 2011< /p>
+
 <!-- additional content -->
+
 < p>< a href="about.html">About Film Folk< /a>< /p>
+
 < p>< a href="#top">Top of page< /a>< /p>
+
 < /body>
+
 < /html>
+
 
 
 ### Key Concepts in Positioning Elements
