@@ -1,8 +1,7 @@
-__Dear all__ 
+# Reading Notes
 
-I am Sa'ed Jabali and I am 26 years old, graduated as an aeronautical engineer from Jordan university of science and technology in 2018.
 
-# Code 102 Reading notes
+## Code 102 - Intro to Software Development
 
 | # Table of contents               |  Repo Links                    |
 |-----------------------------------|------------------------------  |
@@ -18,7 +17,7 @@ I am Sa'ed Jabali and I am 26 years old, graduated as an aeronautical engineer f
 | * Operators and Loops | [Operators and Loops](https://saedjabali.github.io/Reading.Notes/Operators%20and%20Loops) |
 
 
-# code 201 Reading notes
+## Code 201 - Foundations of Software Development
 
 | # Table of contents               |  Repo Links                    |
 |-----------------------------------|------------------------------  |
