@@ -31,7 +31,7 @@ This page contains a summary of the topics included in the course.
 | * class-09 | [Forms and Events](https://saedjabali.github.io/reading-notes/class-09) |
 | * class-10 | [JS Debugging](https://saedjabali.github.io/reading-notes/class-10) |
 | * class-11 | [Assorted Topics](https://saedjabali.github.io/reading-notes/class-11) |
-| * class-12 | [<canvas> Element & Chart.js](https://saedjabali.github.io/reading-notes/class-12) |
+| * class-12 | [canvas Element & Chart.js](https://saedjabali.github.io/reading-notes/class-12) |
 | * class-13 | [Local Storage](https://saedjabali.github.io/reading-notes/class-13) |
 | * class-14a | [CSS Transforms, Transitions, and Animations](https://saedjabali.github.io/reading-notes/class-14a) |
 | * class-14b | [What Google Learned About Teams](https://saedjabali.github.io/reading-notes/class-14b) |
