@@ -41,7 +41,7 @@ This page contains a summary of the topics included in the course.
 
 | # Table of contents               |  Repo Links                    |
 |-----------------------------------|------------------------------  |
-| Code 301-class-01 | . |
+| Code 301-class-01 | [React](https://saedjabali.github.io/reading-notes/Code%20301-class-01) |
 | 2 | . |
 | 3 | . |
 | 4 | . |
