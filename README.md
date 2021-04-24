@@ -41,7 +41,7 @@ This page contains a summary of the topics included in the course.
 
 | # Table of contents               |  Repo Links                    |
 |-----------------------------------|------------------------------  |
-| 1 | . |
+| Code 301-class-01 | . |
 | 2 | . |
 | 3 | . |
 | 4 | . |
