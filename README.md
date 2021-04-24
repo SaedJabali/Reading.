@@ -6,16 +6,14 @@ This page contains a summary of the topics included in the course.
 
 | # Table of contents               |  Repo Links                    |
 |-----------------------------------|------------------------------  |
-| * Mindset-Growth.                 | [Mindset-Growth](https://saedjabali.github.io/reading-notes/Mindset-Growth)                               |
-| * Topic learnt.                   | [Topic learnt](https://saedjabali.github.io/reading-notes/Topic-learnt)                              |
-|                                   |                                |
-| * Structure web pages with HTML.  | [Structure web pages with HTML](https://saedjabali.github.io/reading-notes/Structure%20web%20pages%20with%20HTML)                               |
-|                                   |                                |
-| * Programming with JavaScript.    | [Programming with JavaScript](https://saedjabali.github.io/reading-notes/Programming%20with%20JavaScript)                               |
-| * The Document object | [Dynamic web pages with JavaScript](https://saedjabali.github.io/reading-notes/Dynamic%20web%20pages%20with%20JavaScript)                               |                                
-| * How Computer work? | [Dynamic web pages with JavaScript](https://saedjabali.github.io/reading-notes/Computer%20Architecture%20and%20Logic) |
-| * CSS & HTML | [CSS & HTML](https://saedjabali.github.io/Reading.Notes/CSS%20&%20HTML) |
-| * Operators and Loops | [Operators and Loops](https://saedjabali.github.io/reading-notes/Operators%20and%20Loops) |
+| * class-01 | [Mindset-Growth](https://saedjabali.github.io/reading-notes/Mindset-Growth) |
+| * class-02 | [Topic learnt](https://saedjabali.github.io/reading-notes/Topic-learnt) |
+| * class-03 | [Structure web pages with HTML](https://saedjabali.github.io/reading-notes/Structure%20web%20pages%20with%20HTML) |
+| * class-04 | [Programming with JavaScript](https://saedjabali.github.io/reading-notes/Programming%20with%20JavaScript) |
+| * class-05 | [Dynamic web pages with JavaScript](https://saedjabali.github.io/reading-notes/Dynamic%20web%20pages%20with%20JavaScript) |
+| * class-06 | [Dynamic web pages with JavaScript](https://saedjabali.github.io/reading-notes/Computer%20Architecture%20and%20Logic) |
+| * class-07 | [CSS & HTML](https://saedjabali.github.io/Reading.Notes/CSS%20&%20HTML) |
+| * class-08 | [Operators and Loops](https://saedjabali.github.io/reading-notes/Operators%20and%20Loops) |
 
 
 ## Code 201 - Foundations of Software Development
