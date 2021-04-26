@@ -8,12 +8,18 @@ Property values for the component are stored in the state entity. The item is re
 
 What is a Lifecycle in React?
 
-During the three key stages, you can track and control the lifecycle. Mounting, updating, and unmounting are the three stages.
+During the three key stages, we can track and control the lifecycle. Mounting, updating, and unmounting are the three stages.
 
 ## Handling Events
 
 Using React elements to handle events is somewhat close to using *DOM* elements. There are some variations in syntax: **CamelCase** is used to call React occurrences instead of lowercase.
-Instead of passing a string as the event handler, JSX allows you to pass a method.
+Instead of passing a string as the event handler, JSX allows us to pass a method.
+
+## Conditional Rendering
+
+In React, we can create distinct components that encapsulate behavior we need. Then, we can render only some of them, depending on the state of our application.
+
+Conditional rendering in React works the same way conditions work in JavaScript. Use JavaScript operators like if or the conditional operator to create elements representing the current state, and let React update the UI to match them.
 
 ## The Spread Operator
 
