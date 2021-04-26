@@ -1,25 +1,21 @@
-# State and Props
+# React
 
-## State and Lifecycle
+## Lifting State Up
 
-What is a State in React?
+In React, sharing state is accomplished by moving it up to the closest common ancestor of the components that need it. This is called “lifting state up”.
 
-Property values for the component are stored in the state entity. The item is re-rendered as the state object shifts.
+## Lists and Keys
 
-What is a Lifecycle in React?
+First, let’s review how you transform lists in JavaScript.
+Given the code below, we use the map() function to take an array of numbers and double their values. We assign the new array returned by map
 
-During the three key stages, we can track and control the lifecycle. Mounting, updating, and unmounting are the three stages.
+() to the variable doubled and log it:
 
-## Handling Events
+const numbers = [1, 2, 3, 4, 5]; const doubled = numbers.map((number) => number * 2); console.log(doubled); 
 
-Using React elements to handle events is somewhat close to using *DOM* elements. There are some variations in syntax: **CamelCase** is used to call React occurrences instead of lowercase.
-Instead of passing a string as the event handler, JSX allows us to pass a method.
+This code logs [2, 4, 6, 8, 10] to the console.
 
-## Conditional Rendering
-
-In React, we can create distinct components that encapsulate behavior we need. Then, we can render only some of them, depending on the state of our application.
-
-Conditional rendering in React works the same way conditions work in JavaScript. Use JavaScript operators like if or the conditional operator to create elements representing the current state, and let React update the UI to match them.
+In React, transforming arrays into lists of elements is nearly identical.
 
 ## The Spread Operator
 
