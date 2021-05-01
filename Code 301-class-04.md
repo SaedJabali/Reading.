@@ -13,8 +13,11 @@ Instead of longer if and else conditional sentences, use the ternary operator to
 **Normal If Argument**
 
 if(x===y){
+
   console.log(true);
+
 } else {
+    
   console.log(false);
 }
 
