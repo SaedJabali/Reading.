@@ -28,7 +28,7 @@ You can install jshint locally with
 
 Aside from being effective at what it does, Node.js is popular because it has a huge, active, open-source, JavaScript-based ecosystem. Also, it doesn't tend to break compatibility between versions in major ways.
 
-# pair programming
+## pair programming
 
 * Greater efficiency. It is a common misconception that pair programming takes a lot longer and is less efficient.
 * Engaged collaboration.
@@ -37,6 +37,6 @@ Aside from being effective at what it does, Node.js is popular because it has a 
 * Job interview readiness.
 * Work environment readiness.
 
-# How does pair programming work?
+## How does pair programming work?
 
  The Driver, writes code and the Observer or Navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
