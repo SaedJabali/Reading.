@@ -15,4 +15,3 @@ Java is a high-level, general-purpose, **object-oriented**, and secure programmi
 ## What does it mean to compile code?
 
 Compiling is the *transformation* from Source Code (human readable) into **machine code** (computer executable). A compiler is a program. A compiler takes the recipe (code) for a new program (written in a high level language) and transforms this Code into a new language (Machine Language) that can be understood by the computer itself.
-
