@@ -33,4 +33,3 @@ class MyClass {
 }
 
 everything inside the class will the information for the objects.
-
