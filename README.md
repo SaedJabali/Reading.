@@ -42,20 +42,37 @@ This page contains a summary of the topics included in the course.
 | # Table of contents               |  Repo Links                    |
 |-----------------------------------|------------------------------  |
 | Code 301-class-01 | [React](https://saedjabali.github.io/reading-notes/Code%20301-class-01) |
-| 2 | . |
-| 3 | . |
-| 4 | . |
-| 5 | . |
-| 6 | . |
-| 7 | . |
-| 8 | . |
-| 9 | . |
-| 10 | . |
-| 11 | . |
-| 12 | . |
-| 13 | . |
-| 14 | . |
-| 15 | . |
+| Code 301-class-02 | [React States](https://saedjabali.github.io/reading-notes/Code%20301-class-02) |
+| Code 301-class-03 | [React Lists](https://saedjabali.github.io/reading-notes/Code%20301-class-03) |
+| Code 301-class-04 | [React Forms](https://saedjabali.github.io/reading-notes/Code%20301-class-04) |
+| Code 301-class-05 | [Thinking In React](https://saedjabali.github.io/reading-notes/Code%20301-class-05) |
+| Code 301-class-06 | [NodeJs](https://saedjabali.github.io/reading-notes/Code%20301-class-06) |
+| Code 301-class-07 | [Web Info](https://saedjabali.github.io/reading-notes/Code%20301-class-07) |
+| Code 301-class-08 | [API's](https://saedjabali.github.io/reading-notes/Code%20301-class-08) |
+| Code 301-class-09 | [Programming Concepts](https://saedjabali.github.io/reading-notes/Code%20301-class-09) |
+| Code 301-class-10 | [Memory](https://saedjabali.github.io/reading-notes/Code%20301-class-10) |
+| Code 301-class-11 | [0Auth](https://saedjabali.github.io/reading-notes/Code%20301-class-11) |
+| Code 301-class-12 | [SQL vs NOSQL](https://saedjabali.github.io/reading-notes/Code%20301-class-12) |
+| Code 301-class-13 | [Status Codes](https://saedjabali.github.io/reading-notes/Code%20301-class-13) |
+| Code 301-class-14 | [Diversity & Inclusion in the Tech Industry](https://saedjabali.github.io/reading-notes/Code%20301-class-14) |
 
 
 ## Code 401 - Advanced Software Development
+
+| # Table of contents               |  Repo Links                    |
+|-----------------------------------|------------------------------  |
+| Java-class-01 | [Java](https://saedjabali.github.io/reading-notes/Java-class-01) |
+| Java-class-2 | . |
+| Java-class-3 | [Maps, primitives, File I/O](https://saedjabali.github.io/reading-notes/Java-class-03) |
+| Java-class-4 | . |
+| Java-class-5 | . |
+| Java-class-6 | . |
+| Java-class-7 | . |
+| Java-class-8 | . |
+| Java-class-9 | . |
+| Java-class-10 | . |
+| Java-class-11 | . |
+| Java-class-12 | . |
+| Java-class-13 | . |
+| Java-class-14 | . |
+| Java-class-15 | . |
