@@ -15,7 +15,6 @@ This page contains a summary of the topics included in the course.
 | * class-07 | [CSS & HTML](https://saedjabali.github.io/Reading.Notes/CSS%20&%20HTML) |
 | * class-08 | [Operators and Loops](https://saedjabali.github.io/reading-notes/Operators%20and%20Loops) |
 
-
 ## Code 201 - Foundations of Software Development
 
 | # Table of contents               |  Repo Links                    |
@@ -36,7 +35,6 @@ This page contains a summary of the topics included in the course.
 | * class-14a | [CSS Transforms, Transitions, and Animations](https://saedjabali.github.io/reading-notes/class-14a) |
 | * class-14b | [What Google Learned About Teams](https://saedjabali.github.io/reading-notes/class-14b) |
 
-
 ## Code 301 - Intermediate Software Development
 
 | # Table of contents               |  Repo Links                    |
@@ -55,7 +53,6 @@ This page contains a summary of the topics included in the course.
 | Code 301-class-12 | [SQL vs NOSQL](https://saedjabali.github.io/reading-notes/Code%20301-class-12) |
 | Code 301-class-13 | [Status Codes](https://saedjabali.github.io/reading-notes/Code%20301-class-13) |
 | Code 301-class-14 | [Diversity & Inclusion in the Tech Industry](https://saedjabali.github.io/reading-notes/Code%20301-class-14) |
-
 
 ## Code 401 - Advanced Software Development
 

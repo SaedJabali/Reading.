@@ -20,6 +20,7 @@ font-size:large;
  </style>
 
 # Text in html
+
 1. Structural and semantic markup
 2. Headings and paragraphs
 3. Bold, italic, emphasis

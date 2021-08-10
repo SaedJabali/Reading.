@@ -1,15 +1,13 @@
-# Lists 
-
-
+# Lists
 
 There are lots of occasions when we need to use *lists*. HTML provides us with **three** different types:
 
-* Ordered lists 
-* Unordered lists 
+* Ordered lists
+* Unordered lists
 
-* Definition lists 
+* Definition lists
 
-### Ordered lists
+## Ordered lists
 
 lists where each item in the list is
 numbered. For example, the list might be a set of steps for
@@ -21,7 +19,8 @@ number.
 The ordered list is created with
 the < ol> element.
 
-### Unorder lists
+## Unorder lists
+
 are lists that begin with a bullet point
 (rather than characters that indicate order).
 
@@ -29,8 +28,8 @@ are lists that begin with a bullet point
 The unordered list is created
 with the < ul> element.
 
+## Definition lists
 
-### Definition lists 
 are made up of a set of terms along with the
 definitions for each of those terms.
 
@@ -83,17 +82,26 @@ or nested list.
 
 < /ul>
 
-**This will result as the following**
+### This will result as the following
 
-<ul>
-  <li>Coffee</li>
-  <li>Tea
-    <ul>
-      <li>Black tea</li>
-      <li>Green tea</li>
-    </ul>
-  </li>
-  <li>Milk</li>
+<ul.>
+
+  <li.>Coffee</ li>
+
+  <li.>Tea
+
+    <ul.>
+
+      <li.>Black tea</li>
+
+      <li.>Green tea</li>
+
+    </ul.>
+
+  </li.>
+
+  <li.>Milk</li>
+
 </ul>
 
 **< li>**
@@ -101,8 +109,7 @@ Each item in the list is placed
 between an opening < li> tag
 and a closing < /li> tag. (The *li* stands for list item.)
 
-
-# Boxes
+## Boxes
 
 when using **CSS** to style **html** page it will take each element in the page as a *box*.
 
@@ -132,9 +139,7 @@ been the most popular method
 because they allow designers to
 accurately control their size.
 
-
-
-# SWITCH STATEMENTS
+## SWITCH STATEMENTS
 
 A **switch** statement starts with a
 *variable* called the *switch value*.
@@ -143,37 +148,37 @@ value for this variable and the
 code that should run if the
 variable matches that value.
 
-#### Switch case syntax 
+### Switch case syntax
 
 switch( expression )
 {
 
-	case value-1:
+case value-1:
 
-			Block-1;
+Block-1;
 
-			Break;
+Break;
 
-	case value-2:
+case value-2:
 
-			Block-2;
+Block-2;
 
-			Break;
+Break;
 
-	case value-n:
+case value-n:
 
-			Block-n;
+Block-n;
 
-			Break;
+Break;
 
-	default:
+default:
 
-			Block-1;
-            
-			Break;
+Block-1;
+
+Break;
 
 }
-Statement-x; 
+Statement-x;
 
 **Why do we need a Switch case?**
 
@@ -181,9 +186,7 @@ There is one potential problem with the *if-else* statement which is the **compl
 
 **The solution to this problem is the switch statement.**
 
-
 **Rules for switch statement:**
-
 
 * An expression must always execute to a result.
 * Case labels must be constants and unique.
@@ -191,4 +194,3 @@ There is one potential problem with the *if-else* statement which is the **compl
 * A break keyword must be present in each case.
 * There can be only one default label.
 * We can nest multiple switch statements.
-
