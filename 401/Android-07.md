@@ -8,7 +8,7 @@ Most of the cloud providers have invested in serverless; with the given promotio
 
 ### Here are some of the currently available cloud services:
 
-![cloud services](https://cdn.hackernoon.com/hn-images/1*t4O4UXpdG68MQboNKC6bBw.jpeg)
+![cloud services](https://miro.medium.com/max/1400/1*YTVgxkvq3YLyHxJi9r1ktw.png)
 
 * AWS Lambda
 * Google Cloud Functions
