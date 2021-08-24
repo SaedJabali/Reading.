@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e140a91f-126b-43bf-a19c-8993b18d2ca3" name="Default Changelist" comment="Amplify and Kinesis">
-      <change afterPath="$PROJECT_DIR$/401/notifications.md" afterDir="false" />
+    <list default="true" id="e140a91f-126b-43bf-a19c-8993b18d2ca3" name="Default Changelist" comment="Notification">
+      <change afterPath="$PROJECT_DIR$/401/IntentFilter.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/401" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\saad\reading-notes\401" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\saad\reading-notes\Uncategorized" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,7 +48,9 @@
       <workItem from="1629313393104" duration="2788000" />
       <workItem from="1629362649374" duration="59000" />
       <workItem from="1629835564037" duration="871000" />
-      <workItem from="1629836762989" duration="297000" />
+      <workItem from="1629836762989" duration="773000" />
+      <workItem from="1629879711039" duration="10000" />
+      <workItem from="1630171132833" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="Graph">
       <created>1629318616258</created>
@@ -62,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629836149020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Notification">
+      <created>1629837270396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629837270396</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Notification">
+      <created>1629837285768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629837285768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Graph" />
     <MESSAGE value="Amplify and Kinesis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amplify and Kinesis" />
+    <MESSAGE value="Notification" />
+    <option name="LAST_COMMIT_MESSAGE" value="Notification" />
   </component>
 </project>
